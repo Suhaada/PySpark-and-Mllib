@@ -1,2 +1,2 @@
 # PySpark-and-Mllib
-# PySpark and Mllib ## I.- find lowest rated movies with PySpark ## II.- predict user's movie rating score using Mllib  
+# Script to find lowest rated movies with PySpark and then predict what movie a user would enjoy. Uses ALS developed for Netflix' recommendation system.
